@@ -6,7 +6,7 @@
 name: Smell the coffee
 
 # Short bio or description (displayed in the header)
-description: Female consultant
+description: Get informed and get real!
 
 #
 # Flags below are optional
@@ -14,7 +14,7 @@ description: Female consultant
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  github: barryclark/jekyll-now
+  github: MargauxPenwardenBP
   instagram:
   linkedin:
   rss: # just type anything here for a working RSS icon
