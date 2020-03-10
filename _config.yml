@@ -15,9 +15,6 @@ description: Get informed and get real!
 # Includes an icon in the footer for each username you enter
 footer-links:
   github: MargauxPenwardenBP
-  instagram:
-  linkedin:
-  rss: # just type anything here for a working RSS icon
   twitter: MargotteBP
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
