@@ -26,5 +26,5 @@ Mentor & Judge at Hackathon for teenage girls
 
 ### Contact me
 
-- [email](mailto:mxpenwarden@gmail.com)
+- [Email](mailto:mxpenwarden@gmail.com)
 - [LinkedIn](https://uk.linkedin.com/in/margauxpenwarden)
