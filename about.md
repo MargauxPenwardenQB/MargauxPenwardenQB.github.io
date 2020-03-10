@@ -7,7 +7,7 @@ permalink: /about/
 
 ### About me
 
-I am a Franco-british data and language geek travelling around the world.
+I am a Franco-british feminist, data and language geek travelling around the world.
 
 ### Events
 
